@@ -1,0 +1,29 @@
+{
+  "name": "my-projects",
+  "version": "1.0.0",
+  "description": "My backend development training projects",
+  "keywords": [
+    "javascript",
+    "backend",
+    "nodejs"
+  ],
+  "homepage": "https://github.com/Deborah08-bot/Backend-learning#readme",
+  "bugs": {
+    "url": "https://github.com/Deborah08-bot/Backend-learning/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Deborah08-bot/Backend-learning.git"
+  },
+  "license": "ISC",
+  "author": "Kolade Deborah",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dotenv": "^18.0.0",
+    "express": "^5.2.1"
+  }
+}
